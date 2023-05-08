@@ -1,0 +1,122 @@
+*{
+    margin:0 auto;
+    
+    
+    
+}
+
+
+
+.beige {
+    background-color: #d6bda6;
+    width: 40%;
+    padding: 20px 20px 80px 20px;
+    
+    
+}
+
+
+
+.blanco {
+    background-color: white;
+    width: 60%;
+    padding: 20px 20px 80px 70px;
+    
+}
+
+.todo {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 200px;
+    align-items: center;
+    padding-left: 2px;
+}
+
+.hola {
+    font-family: 'Raleway', sans-serif;
+    font-size: smaller;
+    font-weight: bold;
+}
+    
+
+
+.marca {
+    font-weight: bold;
+    font-size: 30px;
+   letter-spacing: normal;
+   font-family: 'Raleway', sans-serif;;
+}
+   
+   
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 100px;
+    font-size: 80px;
+    font-weight: lighter;
+   
+}
+
+button {
+    margin-top: 0px;
+    margin-bottom: 80px;
+    background-color: white;
+    border-color: black;
+    font-size: larger;
+}
+
+p {
+    margin-top: 0px;
+    color: gray;
+    font-size: large;
+    padding-right: 300px;
+}
+
+img {
+    height: 700px;
+    width: 700px;
+    margin-left: 500px;
+    position: absolute;
+    margin-top: 90px;
+
+    
+}
+
+.imagen {
+    position: absolute;
+}
+
+.in {
+    border-style: none;
+    background-color: #d6bda6;
+}
+
+.up {
+    background-color: #d6bda6;
+    
+}
+
+.boton {
+   text-align: right;
+   font-size: smaller;
+   margin-right: 20px;
+}
+
+.numerito {
+   background-color: white;
+   border-radius: 50%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
